@@ -20,12 +20,10 @@
     </a>
 </div>
 
-### Keybinded is a simple keybinding based on the ALT key. It take inspiration of some keybindings from vim and helix.
-
-### If you have suggestions, fell free to report it [here](https://github.com/Gael-Lopes-Da-Silva/KeybindedVSCode/issues/new/choose). This would help me a lot.
+### Packaged is a simple extension that install all of my other extension.
 
 ## How to build ?
-If you want a build of Yellowed you can find it in the release section or in the [build](./build/) folder. Else use `vsce package` in the project folder.
+If you want a build of Packaged you can find it in the release section or in the [build](./build/) folder. Else use `vsce package` in the project folder.
 
 ## How to install ?
 To install, open visual studio code and go to the extention menu. Click on the three dots and click on `Install from VSIX` and choose the `packaged-X.X.X.vsix` file. Or just install it on the market place.
