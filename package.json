@@ -1,0 +1,45 @@
+{
+    "bugs": "https://github.com/Gael-Lopes-Da-Silva/PackagedVSCode/issues/new/choose",
+    "categories": [
+		"Extension Packs"
+	],
+    "description": "Every package from me",
+    "devDependencies": {
+        "@types/node": "18.x",
+        "@types/vscode": "^1.84.0",
+        "vsce": "^2.15.0"
+    },
+    "displayName": "Packaged",
+    "engines": {
+        "vscode": "^1.84.0"
+    },
+    "extensionPack": [
+		"gael-lopes-da-silva.yellowed",
+		"gael-lopes-da-silva.todoed",
+		"gael-lopes-da-silva.keybinded"
+	],
+    "galleryBanner": {
+        "color": "#ffd900",
+        "theme": "dark"
+    },
+    "icon": "resources/logo.png",
+    "keywords": [
+        "Keybinded",
+        "Yellowed",
+        "Todoed",
+        "Packaged"
+    ],
+    "license": "LICENSE.md",
+    "markdown": "github",
+    "name": "packaged",
+    "publisher": "gael-lopes-da-silva",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Gael-Lopes-Da-Silva/PackagedVSCode"
+    },
+    "scripts": {
+        "package": "vsce package -o build",
+        "publish": "vsce publish"
+    },
+    "version": "0.0.1"
+}
