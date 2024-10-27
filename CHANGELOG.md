@@ -9,4 +9,7 @@
 ---
 
 ### 0.0.1
+- Added Colored
+
+### 0.0.1
 - Initial release
