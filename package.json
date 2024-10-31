@@ -1,24 +1,22 @@
 {
     "bugs": "https://github.com/Gael-Lopes-Da-Silva/PackagedVSCode/issues/new/choose",
     "categories": [
-		"Extension Packs"
-	],
+        "Extension Packs"
+    ],
     "description": "Every package from me",
     "devDependencies": {
-        "@types/node": "18.x",
-        "@types/vscode": "^1.84.0",
-        "vsce": "^2.15.0"
+        "@vscode/vsce": "^3.2.1"
     },
     "displayName": "Packaged",
     "engines": {
         "vscode": "^1.84.0"
     },
     "extensionPack": [
-		"gael-lopes-da-silva.yellowed",
-		"gael-lopes-da-silva.todoed",
-		"gael-lopes-da-silva.colored",
-		"gael-lopes-da-silva.keybinded"
-	],
+        "gael-lopes-da-silva.yellowed",
+        "gael-lopes-da-silva.todoed",
+        "gael-lopes-da-silva.colored",
+        "gael-lopes-da-silva.keybinded"
+    ],
     "galleryBanner": {
         "color": "#ffd900",
         "theme": "dark"
