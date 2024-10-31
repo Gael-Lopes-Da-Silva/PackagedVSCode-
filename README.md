@@ -6,6 +6,10 @@
 	<img width="400px" src="./resources/logo.png" alt="">
 </div>
 
+<div align="center">
+    <a href="https://github.com/Gael-Lopes-Da-Silva/PackagedVSCode">https://github.com/Gael-Lopes-Da-Silva/PackagedVSCode</a>
+</div>
+
 <br>
 
 <div align="center">
@@ -20,10 +24,19 @@
     </a>
 </div>
 
-### Packaged is a simple extension that install all of my other extension.
+Description
+------------------------------------------------------------------
 
-## How to build ?
+Packaged is a simple extension that install all of my other extension.
+
+
+How to build
+------------------------------------------------------------------
+
 If you want a build of Packaged you can find it in the release section or in the [build](./build/) folder. Else use `vsce package` in the project folder.
 
-## How to install ?
+
+How to install
+------------------------------------------------------------------
+
 To install, open visual studio code and go to the extention menu. Click on the three dots and click on `Install from VSIX` and choose the `packaged-X.X.X.vsix` file. Or just install it on the market place.
