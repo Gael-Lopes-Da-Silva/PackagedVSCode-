@@ -15,6 +15,7 @@
         "gael-lopes-da-silva.yellowed",
         "gael-lopes-da-silva.todoed",
         "gael-lopes-da-silva.colored",
+        "gael-lopes-da-silva.spaced",
         "gael-lopes-da-silva.keybinded"
     ],
     "galleryBanner": {
@@ -40,5 +41,5 @@
         "package": "vsce package -o build",
         "publish": "vsce publish"
     },
-    "version": "0.0.3"
+    "version": "0.0.4"
 }

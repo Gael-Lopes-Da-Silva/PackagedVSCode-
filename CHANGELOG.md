@@ -9,6 +9,9 @@
 ---
 
 ### 0.0.3
+- Added Spaced
+
+### 0.0.3
 - Updated README
 
 ### 0.0.2
