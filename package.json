@@ -1,9 +1,14 @@
 {
+    "author": {
+        "email": "gael.lopes-da-silva@outlook.fr",
+        "name": "Gaël Lopes Da Silva",
+        "url": "https://github.com/Gael-Lopes-Da-Silva"
+    },
     "bugs": "https://github.com/Gael-Lopes-Da-Silva/PackagedVSCode/issues/new/choose",
     "categories": [
         "Extension Packs"
     ],
-    "description": "Every package from me",
+    "description": "A bundle of all my extensions",
     "devDependencies": {
         "@vscode/vsce": "^3.2.1"
     },
@@ -42,5 +47,5 @@
         "package": "vsce package -o build",
         "publish": "vsce publish"
     },
-    "version": "0.0.5"
+    "version": "0.0.6"
 }

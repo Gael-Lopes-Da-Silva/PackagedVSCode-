@@ -27,7 +27,7 @@
 Description
 ------------------------------------------------------------------
 
-Packaged is a simple extension that install all of my other extension.
+Packaged is a simple extension that install all of my other extensions.
 
 
 How to build

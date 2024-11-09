@@ -8,6 +8,9 @@
 
 ---
 
+### 0.0.6
+- Update publish config
+
 ### 0.0.5
 - Added Depended
 
